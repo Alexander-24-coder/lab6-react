@@ -1,0 +1,11 @@
+.word {
+  font-size: 2rem;
+  margin: 20px;
+  letter-spacing: 10px;
+}
+
+.letter {
+  display: inline-block;
+  width: 30px;
+  text-transform: uppercase;
+}

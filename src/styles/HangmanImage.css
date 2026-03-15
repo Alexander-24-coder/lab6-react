@@ -1,0 +1,8 @@
+.hangman-image {
+  margin: 20px auto;
+}
+
+.hangman-image img {
+  max-width: 200px;
+  height: auto;
+}
